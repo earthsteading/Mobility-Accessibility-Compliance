@@ -1,4 +1,4 @@
-# mobility-accessibility-compliance
+# Why should I build my building to be mobility (and accessibility) compliant?
 Mobility &amp; accessibility compliance
 
 "_Build buildings for your future self!_"
