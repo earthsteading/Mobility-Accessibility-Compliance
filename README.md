@@ -21,5 +21,4 @@ I like large bathrooms, but I don't want my bathroom to look like a handicap toi
 The above checklists are based on the below resources:
   - Accessibility compliant bathroom designs and schematics: https://www.disabilityaccessconsultants.com.au/faq/how-big-is-an-accessible-disabled-toilet/
   - For Class 1b buildings, it is a requirement to have accessibility compliance built in: https://www.disabilityaccessconsultants.com.au/wp-content/uploads/2020/08/Class_1B_Building_Converstions_Factsheet.pdf & https://www.disabilityaccessconsultants.com.au/class-1b-building-conversions-english/
-  - 
-  - 
+  - Minimum accessibility standards for housing in the NCC: https://www.abcb.gov.au/resource/regulation-impact-statements/proposal-include-minimum-accessibility-standards-housing-ncc
