@@ -27,3 +27,4 @@ The above checklists are based on the below resources:
   - For Class 1b buildings, it is a requirement to have accessibility compliance built in: https://www.disabilityaccessconsultants.com.au/wp-content/uploads/2020/08/Class_1B_Building_Converstions_Factsheet.pdf & https://www.disabilityaccessconsultants.com.au/class-1b-building-conversions-english/
   - Minimum accessibility standards for housing in the NCC: https://www.abcb.gov.au/resource/regulation-impact-statements/proposal-include-minimum-accessibility-standards-housing-ncc
   - Changing places design specifications for public accessible changing facilities: https://changingplaces.org.au/wp-content/uploads/2020/03/Changing-Places-design-specifications-2020-1.pdf
+  - https://www.access.asn.au/
