@@ -28,3 +28,4 @@ The above checklists are based on the below resources:
   - Minimum accessibility standards for housing in the NCC: https://www.abcb.gov.au/resource/regulation-impact-statements/proposal-include-minimum-accessibility-standards-housing-ncc
   - Changing places design specifications for public accessible changing facilities: https://changingplaces.org.au/wp-content/uploads/2020/03/Changing-Places-design-specifications-2020-1.pdf
   - https://www.access.asn.au/
+  - https://www.vba.vic.gov.au/__data/assets/pdf_file/0004/98473/1.04-Sanitary-Plumbing-Installation-of-Fixtures-for-Disabled-Persons.pdf
