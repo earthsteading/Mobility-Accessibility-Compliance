@@ -1,7 +1,7 @@
-This interview was part of course work for the Building Surveyor Diploma at Federation University in 2022:
+This interview was part of course work for the Building Surveyor Diploma at Federation University (previously the Ballarat School of Mines) in 2022:
 
-RBS: Interview by a Relevant Building Surveyor
-SR: Sonia, an Austrlaian woman who has a twin sister with a disability
+  - RBS: Interview by a Relevant Building Surveyor
+  - SR: Sonia, an Austrlaian woman who has a twin sister with a disability
 
 RBS:
 Thanks for taking the time to meet with me, Sonia. Your lifetime of experiences supporting and providing care for your twin sister and her mobility requirements is a valuable perspective as more buildings are required to become universally accessible. As discussed, we are going to go through the current National Construction Code Requirements for accessibility compliance and your qualitative experience of those requirements from the perspective of being a carer who has helped your sister navigate numerous buildings in her power wheelchair.
