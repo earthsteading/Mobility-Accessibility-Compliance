@@ -29,9 +29,9 @@ RBS:
 What are some of the qualitative values which you think the NCC should adopt, beyond quantitative measures? Keeping in mind that all the building surveyors across the country need to understand how to adopt these measures?
 
 SR:
-The ABCB has heard very clear arguments from the mobility community which include qualitative measures like:
+The ABCB has heard very clear arguments from the mobility community which include qualitative values which can empower the quantitative measures: let's start talking about the shared values we want to achieve as a society: both quantitatively and qualitatively!
 
-## Qualitative Values of Universal Design
+## Qualitative Values of Universal Design (that support the quantatitive measures of AS 1428)
 
 * Community inclusion and social participation:
     * Surveyors need to reach out to the community when mobility compliance designs are being checked. This could provide jobs for people in wheelchairs, which can give meaning to people who find it difficult to find work.
