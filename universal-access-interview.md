@@ -31,7 +31,16 @@ What are some of the qualitative values which you think the NCC should adopt, be
 SR:
 The ABCB has heard very clear arguments from the mobility community which include qualitative measures like:
 
-Community inclusion and social participation, e.g. surveyors need to reach out to the community when mobility compliance designs are being checked. This could provide jobs for people in wheelchairs, which can give meaning to people who find it difficult to find work.
-Engagement in the workforce and reduced reliance on social welfare, i.e. surveying is a dying profession, desperately in need of diversity. Why not recognise accessibility as significant as fire safety, and/or pool safety? Imagine the jobs and new design ideas which would emerge in creating a new kind of universal access deemed to satisfy provision!
-Personal freedom and empowerment and improved mental health, e.g. more than ever, people during the pandemic have realised the importance of leaving their home to go and sit in their garden, imagine how frustrating it is to be stuck in your house because we won’t build slabs by default with ramps instead of steps. A single step stops my sister from the right to go and relax in the garden with some sun.
-Awareness of diversity in society and engagement in human rights and social impact, e.g. if every building was built with all mobility modalities in mind, then all of us would be more conscious of our own mobility issues
+## Qualitative Values of Universal Design
+
+* Community inclusion and social participation:
+    * Surveyors need to reach out to the community when mobility compliance designs are being checked. This could provide jobs for people in wheelchairs, which can give meaning to people who find it difficult to find work.
+    * This could also help to reduce social isolation and improve mental health for people with disabilities.
+* Engagement in the workforce and reduced reliance on social welfare:
+    * Accessibility should be recognized as being as important as fire safety and pool safety. This would create jobs in the surveying profession and lead to new design ideas that would make buildings more accessible for everyone.
+    * It would also help to reduce reliance on social welfare, as people with disabilities would be able to participate more fully in the workforce.
+* Personal freedom and empowerment and improved mental health:
+    * Universal design can help to improve the personal freedom and empowerment of people with disabilities. For example, by building ramps instead of steps, people with disabilities would be able to get around more easily and have more freedom to participate in activities.
+    * This can also lead to improved mental health, as people with disabilities would feel less isolated and more able to participate in society.
+* Awareness of diversity in society and engagement in human rights and social impact:
+    * Universal design can help to raise awareness of diversity in society and promote human rights and social impact. By designing buildings that are accessible to everyone, we can create a more inclusive society where everyone feels welcome and valued.
