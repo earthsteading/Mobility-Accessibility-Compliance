@@ -1,5 +1,6 @@
-# Accessibility compliance
-The following provides checklists for assuring a building meets accessibility requirements in Australia
+# Universal Accessibility
+
+This repository contains performance requirement checklists for assuring a building meets universal accessibility requirements in Australia.
 
 ## Definitions, standards and legislation
   - [ ] "Universal Access"
