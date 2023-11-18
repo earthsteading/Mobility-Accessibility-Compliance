@@ -1,6 +1,6 @@
 # Universal Accessibility
 
-This repository contains performance requirement checklists for assuring a building meets *universal accessibility* requirements in Australia.  Please note, as an equal opportunities employer Earthsteading supports the Disability Discrimination Act by recognising full compliance with Universal Accessibility standards, over and above the minimum viable standard required by the National Construction Code.  Building sustainable habitable spaces requires that future occupants are considered.
+This repository contains performance requirement checklists for assuring a building meets *universal accessibility* requirements in Australia.  Please note, as an equal opportunities employer committed to sustainable building Earthsteading Pty Ltd supports the Disability Discrimination Act by recognising full compliance with Universal Accessibility standards, over and above the minimum viable standard required by the National Construction Code.  Building sustainable habitable spaces requires that future occupants are considered.
 
 ## Definitions, standards, statistics and legislation
   - [ ] "Universal Access" also known as inclusive design, is the design of products, environments, and services so that they can be used by people of all abilities, regardless of their age, disability, or other characteristics.  It is an economic argument for equity in the working environment so that every human regardless of accessibiility requirement can contribute their economic effort to their capacity.
