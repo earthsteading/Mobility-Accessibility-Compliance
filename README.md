@@ -5,14 +5,18 @@ This repository contains performance requirement checklists for assuring a build
 ## Definitions, standards, statistics and legislation
   - [ ] "Universal Access" also known as inclusive design, is the design of products, environments, and services so that they can be used by people of all abilities, regardless of their age, disability, or other characteristics.  It is an economic argument for equity in the working environment so that every human regardless of accessibiility requirement can contribute their economic effort to their capacity.
   - [ ] The AS 1428 suite of standards is a set of 'minimum viable' Australian Standards that provide guidelines for the design and construction of accessible buildings and facilities. The suite consists of five parts: Part 1: clearances, dimensions, stairs, ramps, rails, floor, lighting, signage, emergency; Part 2: high-rise buildings, residential buildings, and public transport facilities; Part 3: Requirements for children and adolescents with physical disabilities; Part 4: Orientation of people with vision impairment: Tactile ground surface indicators; Part 5: Communication for people who are deaf or hearing impaired.
-  - [ ] [NDIS Specialist Disability Accomodation (SDA)](https://www.ndis.gov.au/providers/housing-and-living-supports-and-services/specialist-disability-accommodation/sda-design-standard)
-  - [ ] National Disability Insurance Scheme (NDIS) provides funding for people with disabilities to access a range of supports and services. In the 2022-2023 financial year, the NDIS is estimated to spend $30.9 billion on supports and services for people with disabilities.
+  - [ ] [Specialist Disability Accommodation (SDA) Design Standard 2019d](https://www.ndis.gov.au/providers/housing-and-living-supports-and-services/specialist-disability-accommodation/sda-design-standard.  National Disability Insurance Scheme (NDIS) provides funding for people with disabilities to access a range of supports and services. In the 2022-2023 financial year, the NDIS is estimated to spend $30.9 billion on supports and services for people with disabilities.
+  - [ ] Disability (Access to Premises - Buildings) Standards 2010
+  - [ ] AS 1735 is a series of Australian Standards that sets out the requirements for the design, construction, installation, inspection, testing, and maintenance of lifts, escalators, and moving walks, including dimensations and requirements for accessibility.
+  - [ ] Australian Building Codes Board (ABCB) – Livable Housing Design Standard
+  - [ ] Changing Places Specifications 2020
+  - [ ] The Workplace Gender Equality Act 2012 and the Workplace Gender Equality Amendment 2023
   - [ ] A study by the Centre for Social and Economic Research (CSER) found that increased participation by people with disabilities in the workforce could boost the Australian economy by up to $53 billion per year.
   - [ ] A study by the Australian Bureau of Statistics (ABS) found that people with disabilities are more likely to be unemployed than people without disabilities. In 2022, the unemployment rate for people with disabilities was 10.3%, compared to 4.6% for people without disabilities.
 
 # Univeral Accessibility Checklists
 
-The following checklists represent the functional performance requirements of universal access as defined by the AS 1428 suite of standards.
+The following checklists represent the functional performance requirements of universal access as defined by the current legislation and standards referenced above.
 
 ## Clearances and Dimensions Checklists:
  - [ ] Ensure the layout of the building and its components provide sufficient clear spaces and dimensions for people to move around safely.
