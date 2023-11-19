@@ -2,7 +2,8 @@
 The following represents the evidence required to demonstrate expertise as an access consultant in Australia.
 
 ## BSBMED301 - Interpret and apply medical terminology appropriately
-Performance / knowledge evidence (ability to...)
+
+[Performance / knowledge evidence](https://training.gov.au/Training/Details/BSBMED301)
  - [ ] interpret and follow written instructions containing medical terminology
  - [ ] produce documents containing correct medical terminology according to organisational requirements
  - [ ] use medical terminology correctly in oral communications
