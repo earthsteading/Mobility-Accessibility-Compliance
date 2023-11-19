@@ -5,11 +5,11 @@ This repository contains performance requirement checklists for assuring a build
 ## Definitions, standards, statistics and legislation
   - [ ] "Universal Access" also known as inclusive design, is the design of products, environments, and services so that they can be used by people of all abilities, regardless of their age, disability, or other characteristics.  It is an economic argument for equity in the working environment so that every human regardless of accessibiility requirement can contribute their economic effort to their capacity.
   - [ ] The AS 1428 suite of standards is a set of 'minimum viable' Australian Standards that provide guidelines for the design and construction of accessible buildings and facilities. The suite consists of five parts: Part 1: clearances, dimensions, stairs, ramps, rails, floor, lighting, signage, emergency; Part 2: high-rise buildings, residential buildings, and public transport facilities; Part 3: Requirements for children and adolescents with physical disabilities; Part 4: Orientation of people with vision impairment: Tactile ground surface indicators; Part 5: Communication for people who are deaf or hearing impaired.
-  - [ ] Specialist Disability Accommodation (SDA) Design Standard 2019. The National Disability Insurance Scheme (NDIS) provides funding for people with disabilities to access a range of supports and services. In the 2022-2023 financial year, the NDIS is estimated to spend $30.9 billion on supports and services for people with disabilities.
-  - [ ] Disability (Access to Premises - Buildings) Standards 2010
-  - [ ] AS 1735 is a series of Australian Standards that sets out the requirements for the design, construction, installation, inspection, testing, and maintenance of lifts, escalators, and moving walks, including dimensations and requirements for accessibility.
-  - [ ] Australian Building Codes Board (ABCB) – Livable Housing Design Standard
-  - [ ] Changing Places Specifications 2020
+  - [ ] AS 1735 is a series of Australian Standards that sets out the requirements for the design, construction, installation, inspection, testing, and maintenance of lifts, escalators, and moving walks, including dimensions and requirements for accessibility.
+  - [ ] [2022 ABCB's Livable Housing Design Standard (2022)](https://www.abcb.gov.au/resource/standard/livable-housing-design-standard)
+  - [ ] [2020 Changing Places Design Specifications](https://drive.google.com/file/d/1_l8U6y1h8VkySB-Fz9aIAoZMbu-52qrX/view?usp=sharing)
+  - [ ] 2019 Specialist Disability Accommodation (SDA) Design Standard. The National Disability Insurance Scheme (NDIS) provides funding for people with disabilities to access a range of supports and services. In the 2022-2023 financial year, the NDIS is estimated to spend $30.9 billion on supports and services for people with disabilities.
+  - [ ] 2010 Disability (Access to Premises - Buildings) Standards
   - [ ] The Workplace Gender Equality Act 2012 and the Workplace Gender Equality Amendment 2023
   - [ ] The Web Content Accessibility Guidelines (WCAG) are a set of guidelines for making web content more accessible to people with disabilities. They are developed by the World Wide Web Consortium (W3C), and they are the internationally recognized standards for web accessibility.
   - [ ] A study by the Centre for Social and Economic Research (CSER) found that increased participation by people with disabilities in the workforce could boost the Australian economy by up to $53 billion per year.
@@ -17,7 +17,7 @@ This repository contains performance requirement checklists for assuring a build
 
 # Univeral Accessibility Checklists
 
-The following checklists represent the functional performance requirements of universal access as defined by the current legislation and standards referenced above.
+The following checklists represent the functional performance requirements of 'universal access' as defined by the current legislation and standards referenced above.
 
 ## Clearances and Dimensions Checklists:
  - [ ] Ensure the layout of the building and its components provide sufficient clear spaces and dimensions for people to move around safely.
@@ -68,3 +68,14 @@ The following checklists represent the functional performance requirements of un
  - [ ] Implement communication aids to assist people with hearing or vision impairments.
  - [ ] Install visual alarms, signage, and tactile paving to assist people with hearing impairments.
  - [ ] Provide Braille signage and tactile ground surface indicators to assist people with vision impairments.
+
+## Public Changing Place Checklist
+ - [ ] Accessibility: Changing Places toilets must be accessible to people with all types of disabilities. This includes people who use wheelchairs, people with limited mobility, and people with cognitive impairments.
+ - [ ] Usability: Changing Places toilets must be easy to use for people with all types of disabilities. This includes providing clear signage, adequate space, and appropriate fixtures and fittings.
+ - [ ] Safety: Changing Places toilets must be safe for people with all types of disabilities. This includes providing grab bars, emergency call buttons, and non-slip flooring.
+ - [ ] Hygiene: Changing Places toilets must be clean and hygienic. This includes providing a hoist or ceiling track system, a height-adjustable adult-sized changing bench, a clean basin with running water, and a disposable waste receptacle.
+ - [ ] Privacy: Changing Places toilets must provide privacy for people with all types of disabilities. This includes providing a lockable door, a privacy screen, and adequate space.
+ - [ ] Maintenance: Changing Places toilets must be well-maintained and in good working order. This includes regular cleaning, inspection, and repair of fixtures and fittings.
+ - [ ] Location: Changing Places toilets should be located in a central and accessible location. This includes providing signage to direct people to the toilets.
+ - [ ] Opening Hours: Changing Places toilets should be open during the same hours as the building or facility in which they are located.
+ - [ ] Staff Awareness: Staff should be aware of the location and availability of Changing Places toilets. They should also be able to provide assistance to people who need it.
